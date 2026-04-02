@@ -8,6 +8,10 @@ Imagine the car pictured below with sliding doors:
 
 ![](2007.jpg)
 
+Then, as a next exercise, watch
+https://www.youtube.com/watch?v=I0qBrc8fsB0 and replace Ferrari Roma with
+the image in your head.
+
 ***
 
 [GQ](GQ.md)
